@@ -1,7 +1,10 @@
-div {
-  font-family: Arial, Helvetica, sans-serif;
-}
 body {
 	background-color: #4a412a;
     color: #eeeeee;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
